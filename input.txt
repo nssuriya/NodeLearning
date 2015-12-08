@@ -1,0 +1,7 @@
+name,"suriya,subject",one,two,three,four,five,six
+suriya,maths,67,78,65,43,56,23
+suriya,physics,34,65,34,23,34,54
+vishnu,maths,23,45,65,76,45,12
+vishnu,physics,12,87,34,76,89,98
+siva,maths,100,54,67,87,85,54
+siva,physics,32,54,75,87,12,29
